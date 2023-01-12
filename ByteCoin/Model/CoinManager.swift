@@ -42,5 +42,9 @@ struct CoinManager {
         }
     }
     
+    func parseJSON(){
+        //finish function
+    }
+    
     
 }
